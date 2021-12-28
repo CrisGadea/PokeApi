@@ -69,7 +69,7 @@ function App() {
             onSubmit={evento => {
               evento.preventDefault();
               const poke = document.getElementById("pokemon").value;
-              obtenerPokemon(poke);
+              obtenerPokemon(poke.toLowerCase());
             } }
           >
             <input type="text" id="pokemon" />
