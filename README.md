@@ -1,7 +1,7 @@
 # PokeApi
 Activity for Academia Naranja X
 
-# Ver sitio deployado en: https://pokedex-academiax.netlify.app/
+See deployed site in: https://pokedex-academiax.netlify.app/
 
 
 ## Install project
